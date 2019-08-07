@@ -1,0 +1,3 @@
+rootProject.name='TestGitHub'
+include ':app'
+include ':lib'
